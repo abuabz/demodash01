@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c060e524.css",
+    "main.js": "/static/js/main.bae67147.js",
+    "static/js/703.7233a901.chunk.js": "/static/js/703.7233a901.chunk.js",
+    "static/js/541.be1190a8.chunk.js": "/static/js/541.be1190a8.chunk.js",
+    "static/media/vstarLogo.svg": "/static/media/vstarLogo.771df7e450c1f7e689f27080d19b8607.svg",
+    "index.html": "/index.html",
+    "main.c060e524.css.map": "/static/css/main.c060e524.css.map",
+    "main.bae67147.js.map": "/static/js/main.bae67147.js.map",
+    "703.7233a901.chunk.js.map": "/static/js/703.7233a901.chunk.js.map",
+    "541.be1190a8.chunk.js.map": "/static/js/541.be1190a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c060e524.css",
+    "static/js/main.bae67147.js"
+  ]
+}
